@@ -1,0 +1,42 @@
+##g="прииииииииииивет"
+####print(g[2:5])
+##f=len(g)
+####print(f)
+##j=g.count("и")
+####print(j)
+##y=g.replace("п","т")
+##print(y)
+##h=input("введите вашу фамилию")
+##l=input("введите ваше имя")
+##d=input("введите ваше отчество")
+##u=h[0]
+##o=l[0]
+##p=d[0]
+##r=u+"."+o+"."+p
+##print(r)
+##i=input("введите число")
+##i=i.replace("1","0")
+##i=i.replace("5","1")
+##i=i.replace("6","1")
+##i=i.replace("7","1")
+##i=i.replace("8","1")
+##i=i.replace("9","1")
+##i=i.replace("4","0")
+##i=i.replace("3","0")
+##i=i.replace("2","0")
+##print(i
+##a='Привет, я изучаю Python!'
+##i=(a[8:16])
+##print(i)
+##o=input("введите текст")
+##k=o.count("0")
+##y=o.count("1")
+##p=o.count("2")
+##t=o.count("3")
+##e=o.count("4")
+##w=o.count("5")
+##u=o.count("6")
+##a=o.count("7")
+##s=o.count("8")
+##d=o.count("9")
+##print(k+p+y+t+e+w+u+a+s+d)
